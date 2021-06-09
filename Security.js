@@ -10,7 +10,7 @@ class Security {
         this.button1.position(100,120);
         this.button1.style('background', 'lightgrey');    
 
-        this.access2 = createInput("Code1")
+        this.access2 = createInput("Code2")
         this.access2.position(700,190);
         this.access2.style('background', 'white');  
 
